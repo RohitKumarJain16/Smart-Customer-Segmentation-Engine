@@ -9,7 +9,7 @@ Retail businesses waste resources sending generic marketing to their entire cust
 Due to GitHub's file size limits, the raw dataset (`online_retail.csv`) and the populated SQLite databases (`retail_real.db`) are not hosted in this repository. 
 
 **To run this project locally:**
-1. Download the data and database files from my Google Drive: [INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE]
+1. Download the data and database files from my Google Drive: (https://drive.google.com/drive/folders/1R3mvrM21OuXSGezBSh_6LGB02vuCZf6D?usp=sharing)
 2. Paste the downloaded `.csv` and `.db` files directly into the root folder of this repository.
 
 ## 🛠️ Tech Stack
